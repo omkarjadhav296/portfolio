@@ -1,7 +1,7 @@
 ---
 title: "Semantic Segmentation with U-Net:"
 collection: talks
-type: "Talk"
+type: "Academic Research Project"
 permalink: /talks/Reserch-1
 venue: "Faculty of ITC-University of Twente"
 # date: 201-03-01
