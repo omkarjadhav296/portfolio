@@ -16,9 +16,9 @@ Education
 ======
 * __M.Sc in Earth Observation (Specialization: Geoinformatics),__ _2020-2023_<br>
 [Faculty of ITC, University of Twente](https://www.itc.nl/), Enschede, Netherlands 
-in JEP with [Indian Institute of Remote Sensing- Indian Space Research Organization](https://www.iirs.gov.in/), Dehradun, India
+in JEP with<br>[Indian Institute of Remote Sensing- Indian Space Research Organization](https://www.iirs.gov.in/), Dehradun, India
 
-_Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets, Machine Learning Approach_
+_Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets,<br>Machine Learning Approach_
 
 * __B.Tech. in Agricultural Engineering,__ _2015-2019_<br>
 [DBSKKV, College of Agricultural Engineering and Technology](https://www.dbskkv.org/faculty/engineering), Dapoli (Maharashtra,India)
@@ -29,18 +29,18 @@ Work experience
 ======
 * December 2023- Present: __Senior Researcher-RS & GIS__
   * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
-  * Project: Gradual Development of Irrigation Management System for Continuous Assessment of Performance/ Benchmarking of Pench Irrigation Project, Nagpur
-  -World Bank Aided NHP Project, Ministry of Jalshakti (Government of India)
+  * Project: Gradual Development of Irrigation Management System for Continuous <br>Assessment of Performance/ Benchmarking of Pench Irrigation Project, Nagpur<br>
+  World Bank Aided NHP Project, Ministry of Jalshakti (Government of India)
   * Principle Scientist: Prof. Dr. M.S. Mane
 
 * July 2024: __Course Co-ordinator__ (Geoinformatics-short course)
   * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
-  * Coordinating a comprehensive training program focused on Remote Sensing and GIS with Geoinformatics as a specialization. Mentoring students from agriculture 
+  * Coordinating a comprehensive training program focused on Remote Sensing <br>and GIS with Geoinformatics as a specialization. Mentoring students from <br>agriculture 
 background about choosing GIS as future 
   * Course Incharge: Prof. Dr. M.S. Mane
 
 * Mar 2023-September 2023: __GIS & MEL Expert__ (Freelancer)
-  * Samerth Charitable Trust, Ahmedabad (India) association with Commonland Foundation, Amsterdam (Netherlands)
+  * Samerth Charitable Trust, Ahmedabad (India) association with <br>Commonland Foundation, Amsterdam (Netherlands)
   
 Skills
 ======
