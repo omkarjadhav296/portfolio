@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Omkar_Jadhav"
-description              : &description "Geo-Data Scientist"
+description              : &description "Senior Researcher"
 url                      : https://omkarjadhav296.github.io/portfolio  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omkarjadhav296.github.io/portfolio/"
@@ -22,12 +22,13 @@ repository               : "omkarjadhav296.github.io/portfolio/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "omkaraj.png"
   name             : "Omkar Arvind Jadhav"
   pronouns         : "he/him" 
-  bio              : "GeoData Scientist (P)"
-  location         : "Delhi, India"
-  employer         : "World Bank (India)"
+  bio              : "Senior Researcher- RS & GIS"
+  interests       : "Remote Sensing, GIS, Image Processing, Machine Learning, Deep Learning, Crop Monitoring, Agro-meteorology, Land Use Land Cover Change, and Environmental Studies."
+  location         : "Pune, India"
+  employer         : "GoM"
   uri              : # URL
   email            : "omkarjadhav296@outlook.com" 
 
