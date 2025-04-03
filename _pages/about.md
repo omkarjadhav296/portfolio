@@ -19,7 +19,7 @@ redirect_from:
 
 * Committed to driving innovation in geospatial science through research, development, and application of cutting-edge machine learning/ deep learning techniques.
 
-<p><b>Note:</b> <i>This page is work in progress, we yet add github links of all projects</i></p>
+<p><b>Note:</b> <i>This page is work in progress, we yet add github links for all project</i></p>
 
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2025/02/10/06/55/deep-learning-9395905_640.png" alt="Deep-Neurral-Network" width="450" height="300">
