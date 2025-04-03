@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/OmkarJadhav-CV.pdf" class="btn btn--primary">Download CV</a>
+</div>
 
 Education
 ======
