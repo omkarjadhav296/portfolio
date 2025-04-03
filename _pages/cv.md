@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculam Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="cv-download-links">
+<div class="cv-download-links" style="text-align: right;">
   <a href="{{ base_path }}/files/OmkarJadhav-CV.pdf" class="btn btn--primary">Download CV</a>
 </div>
 
@@ -74,4 +74,6 @@ Certifications
 Conference
 ======
 * June 2022: International Conference on Insight in Mechanical and Civil Engineering (ICIMCE) 
-  * DYPIET, Pune (Maharashtra,India) 
+  * DYPIET, Pune (Maharashtra,India)
+
+
