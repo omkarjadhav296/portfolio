@@ -25,10 +25,10 @@ author:
   avatar           : "omkaraj.png"
   name             : "Omkar Jadhav"
   pronouns         : "(he/him)" 
-  bio              : "Senior Researcher- RS & GIS"
+  bio              : "GeoData Scientist"
   interests       : "Remote Sensing, GIS, Image Processing, Machine Learning, Deep Learning, Crop Monitoring, Agro-meteorology, Land Use Land Cover Change, and Environmental Studies."
-  location         : "Pune, India"
-  employer         : "GoM"
+  # location         : "Pune, India"
+  # employer         : "GoM"
   uri              : # URL
   email            : "omkarjadhav296@outlook.com" 
 
@@ -39,7 +39,7 @@ author:
 
   # Repositories and software development
   github           : "omkarjadhav296"
-  kaggle           : "omkaraj296"  
+  # kaggle           : "omkaraj296"  
   gisstackexchange : "207586"  
 
   # Social media

@@ -9,13 +9,11 @@ redirect_from:
 
 ### Geospatial Data Scientist | Researcher | Remote Sensing & GIS Expert | AI-Expert 
 
-* Passionate geospatial data scientist with expertise in remote sensing, GIS, and machine learning. Currently a Senior Researcher at Mahatma Phule Agricultural University, contributing to World Bank aided National Hydrology Project _(NHP)_ focused on irrigation management and benchmarking of irrigation schemes.
+* Passionate geospatial data scientist with expertise in remote sensing, GIS, and machine learning, with a research focus on air quality prediction, weather forecasting, disaster risk assessment, crop monitoring, hydrology and land-use classification. Strong background in mathematics, statistical analysis, spatial data visualization, and database management.
 
-* Holds an M.Sc. in Geoinformatics from the University of Twente and the Indian Institute of Remote Sensing, with a research focus on sugarcane crop monitoring using multi-parametric SAR datasets and machine learning.
 
-* Proficient in Python, R, JavaScript, SQL, and industry-leading geospatial tools such as ArcGIS, QGIS, and Google Earth Engine. Skilled in deep learning, satellite image analysis, spatial modeling, and geospatial data pipelines using cloud platforms like AWS and GCP.
+* Proficient in Python, R, JavaScript, SQL, and industry-leading geospatial tools such as ArcGIS Pro, QGIS, and Google Earth Engine. Skilled in deep learning, satellite image processing/analysis, spatial modeling, and geospatial data pipelines using cloud platforms like AWS and GCP.
 
-* Experienced in diverse research applications, including air quality prediction, weather forecasting, disaster risk assessment, crop disease detection, and land-use classification. Strong background in statistical analysis, spatial data visualization, and database management.
 
 * Committed to driving innovation in geospatial science through research, development, and application of cutting-edge machine learning/ deep learning techniques.
 
