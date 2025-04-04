@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
  Developing a comprehensive COVID-19 dashboard using PowerBI, enabling real-time reporting and analysis
 

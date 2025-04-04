@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Conducting an in-depth analysis of crop water stress in the Hoshiarpur District 
 of Punjab using Sentinel-1 SAR dataset and Landsat-8 optical imagery

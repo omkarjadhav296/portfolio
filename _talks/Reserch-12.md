@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Calculating glacier velocity using sentinel-1 SAR data and python-based libraries like Hyp3, MintPY 
 

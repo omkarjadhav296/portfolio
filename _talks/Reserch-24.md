@@ -9,7 +9,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Analyzing the spatial variation of monsoon rainfall in Maharashtra using remote sensing TRMM data and QGIS
 

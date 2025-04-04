@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Visualizing different ways of energy production in India and comparing potential of renewable and non-renewable sources
 

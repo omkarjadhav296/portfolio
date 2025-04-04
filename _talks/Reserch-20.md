@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Estimating the Crop Cover (C- factor) of the RUSLE model for soil erosion assessment using Google Earth Engine 
 

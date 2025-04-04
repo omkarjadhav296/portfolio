@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Developing a sentiment analysis model to classify product reviews 
 as positive, negative or neutral. Utilizing natural language processing techniques to preprocess text data and training a machine learning model to predict sentiment

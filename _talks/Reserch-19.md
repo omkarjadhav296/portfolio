@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Observing changes in water level of Puzhal lake situated in Chennai which is a major water resources of one of the largest metropolitan cities of India on ArcGIS Pro 
 

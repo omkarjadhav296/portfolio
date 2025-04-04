@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 A case study on UHI effect in Bengaluru and parameters affecting it with calibration of its water bodies cooling effect in outskirts region 
 

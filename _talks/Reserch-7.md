@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Developed a model to predict weather patterns using historical weather data. 
 Utilizing time series analysis techniques such as ARIMA and LSTM to forecast temperature, precipitation, and other weather parameters

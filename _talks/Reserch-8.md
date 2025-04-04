@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Building a model to predict air quality levels in Delhi using historical air quality data and 
 meteorological factors. Implementing machine learning models to forecast pollutants concentration and identify trends

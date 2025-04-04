@@ -8,6 +8,8 @@ venue: "IIRS-ISRO"
 location: "Dehradun, India"
 ---
 
+[github_link](https://github.com/omkarjadhav296)
+
 Perform segmentation on satellite images to identify different land cover types, 
 such as water bodies, vegetation, and urban areas
 

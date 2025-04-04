@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Analyzing change in water level and forest cover of Sundarbans and observing effect of increase in mean sea level over 30 years of time span using machine learning models like random-forest and XG- Boost  
 

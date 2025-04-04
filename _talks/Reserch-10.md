@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
  Performing a comparative analysis using Random Forest and Support Vector Classifier algorithm, enhancing the understanding of planted and ratoon sugarcane
 

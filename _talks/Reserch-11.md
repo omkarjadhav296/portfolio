@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Building a machine learning model for estimation of biophysical parameters of sugarcane for both planted and ratoon sugarcane 
 

@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[More information here](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Creating a real-time data pipeline using AWS Kinesis to ingest, process, 
 and visualize geospatial data streams

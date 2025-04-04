@@ -8,7 +8,7 @@ venue: "Faculty of ITC-University of Twente"
 location: "Enschede, Netherlands"
 ---
 
-[github_link](http://example2.com)
+[github_link](https://github.com/omkarjadhav296)
 
 Building an ETL pipeline using AWS Glue to extract, transform and 
 load geospatial data into Amazon Redshift for analysis
