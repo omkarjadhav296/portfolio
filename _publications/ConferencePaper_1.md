@@ -3,7 +3,7 @@ title: "Comparative Analysis of Digital Elevation Models: A Case Study of Kayadh
 collection: publications
 category: conferences
 permalink: /publication/ConferencePaper_1
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about comparing the Digital Elevation Model'
 date: 2019-04-10
 venue: 'Asian Journal Convergence in Technology, ISSN:2350 1146'
 paperurl: 'https://asianssr.org/index.php/ajct/article/view/829/666'
