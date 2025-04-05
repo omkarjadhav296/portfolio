@@ -28,7 +28,7 @@ _Research on: Developing an ICT Application for Runoff Estimation Using C++_
 
 Work experience
 ======
-* December 2023- Present: __Senior Researcher-RS & GIS__
+* December 2023- January 2025: __Senior Researcher-RS & GIS__
   * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
   * Project: Gradual Development of Irrigation Management System for Continuous <br>Assessment of Performance/ Benchmarking of Pench Irrigation Project, Nagpur<br>
   World Bank Aided NHP Project, Ministry of Jalshakti (Government of India)
