@@ -14,8 +14,8 @@ tags:
 </p>
 
 Read the full blog on  
-👉 [**Medium**](https://medium.com/@your_username/your-article-slug)
+👉 [**Medium**](https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3)
 
 ---
 
-This is a brief intro or excerpt you want to keep on your personal site. The full content lives on Medium.
+This blog was not written by me but putting here for experimental purpose.
