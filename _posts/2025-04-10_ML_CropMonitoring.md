@@ -1,12 +1,11 @@
 ---
-title: 'Upcoming'
+title: 'Future Blog Post'
 date: 2025-04-10
-permalink: /posts/2025-04-10_ML_CropMonitoring
+permalink: /posts/2025/04/blog-post-4/
 tags:
-  - Spatial Data Science
-  - Crop Monitoring
-  - Remote Sensing
-  - Artificial Intelligence
+  - cool posts
+  - category1
+  - category2
 ---
 
-we will show up blog shortly....!
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
