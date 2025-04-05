@@ -8,8 +8,8 @@ tags:
 ---
 
 <p align="center">
-  <a href="https://medium.com/@your_username/your-article-slug" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/your-banner-image-id" alt="Blog Banner" width="100%" />
+  <a href="https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:2912/format:webp/1*LxIyh8pAhZqXl3ADn_pz3A.jpeg" alt="Blog Banner" width="100%" />
   </a>
 </p>
 
