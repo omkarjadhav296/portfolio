@@ -28,20 +28,18 @@ _Research on: Developing an ICT Application for Runoff Estimation Using C++_
 
 Work experience
 ======
-* December 2023- January 2025: __Senior Researcher-RS & GIS__
-  * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
+* December 2023- Present: __Senior Researcher-RS & GIS__
+  * World Bank aided NHP Project, Ministry of Jalshakti (Government of India)
   * Project: Gradual Development of Irrigation Management System for Continuous <br>Assessment of Performance/ Benchmarking of Pench Irrigation Project, Nagpur<br>
-  World Bank Aided NHP Project, Ministry of Jalshakti (Government of India)
-  * Principle Scientist: Prof. Dr. M.S. Mane
+  
 
-* July 2024: __Course Co-ordinator__ (Geoinformatics-short course)
+<!-- * July 2024: __Course Co-ordinator__ (Geoinformatics-short course)
   * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
   * Coordinating a comprehensive training program focused on Remote Sensing <br>and GIS with Geoinformatics as a specialization. Mentoring students from <br>agriculture 
-background about choosing GIS as future 
-  * Course Incharge: Prof. Dr. M.S. Mane
+background about choosing GIS as future -->
 
 * Mar 2023-September 2023: __GIS & MEL Expert__ (Freelancer)
-  * Samerth Charitable Trust, Ahmedabad (India) association with <br>Commonland Foundation, Amsterdam (Netherlands)
+  * Commonland Foundation, Amsterdam (Netherlands) association with<br>Samerth Charitable Trust, Ahmedabad (India)
   
 Skills
 ======
@@ -76,5 +74,8 @@ Conference
 ======
 * June 2022: International Conference on Insight in Mechanical and Civil Engineering (ICIMCE) 
   * DYPIET, Pune (Maharashtra,India)
+
+* International Conclave on Futuristic Farming (ICFF)
+  * Pune (Maharashtra, India)
 
 
