@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
 date: 2025-04-10
-permalink: /posts/2025/04/blog-post-4/
+permalink: /posts/2025/04/future-post/
 tags:
   - cool posts
   - category1
