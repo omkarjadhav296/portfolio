@@ -8,7 +8,7 @@ tags:
 ---
 
 
-<div style="max-width: 600px; margin: 2rem auto; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div style="max-width: 700px; margin: 2rem auto; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <a href="https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://miro.medium.com/v2/resize:fit:2912/format:webp/1*LxIyh8pAhZqXl3ADn_pz3A.jpeg" alt="Blog Banner" style="width: 100%; display: block;" />
     <div style="padding: 16px;">
