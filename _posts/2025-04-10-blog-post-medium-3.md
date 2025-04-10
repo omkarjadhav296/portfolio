@@ -1,7 +1,7 @@
 ---
 title: 'Data Quality Components for Geospatial Databases'
 date: 2025-04-10
-permalink: /posts/2025/04/blog-post-medium-7/
+permalink: /posts/2025/04/blog-post-medium-3/
 tags:
   - medium
   - featured
