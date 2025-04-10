@@ -1,5 +1,5 @@
 ---
-title: 'Spatial Analysis of Monsoon Rainfall'
+title: 'Bayesian Optimization: Revolutionizing Efficient Search in Complex Spaces'
 date: 2025-04-10
 permalink: /posts/2025/04/blog-post-medium-2/
 tags:
