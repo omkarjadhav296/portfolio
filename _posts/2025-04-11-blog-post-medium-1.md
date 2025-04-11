@@ -1,10 +1,14 @@
 ---
 title: 'Data Quality Components for Geospatial Analysis'
-date: 2024-11-23
-permalink: /posts/2024/11/blog-post-medium-1/
+date: 2025-04-11
+permalink: /posts/2025/04/blog-post-medium-1/
 tags:
   - medium
   - featured
+  - spatial data science
+  - remote sensing
+  - gis
+  - data quality
 ---
 
 <!-- Style:1 -->
