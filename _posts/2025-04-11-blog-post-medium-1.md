@@ -15,7 +15,7 @@ tags:
 <!-- Style:1 -->
 <div style="display: flex; justify-content: flex-start; margin: 2rem auto; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <a href="https://medium.com/@omkarjadhav296/data-quality-components-for-geospatial-analysis-3760666622a8" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-EJsWj6a9kX9lqsbGGl5uw.jpeg" alt="Blog Banner" style="width: 100%; display: flex;"/>
+    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-EJsWj6a9kX9lqsbGGl5uw.jpeg" alt="Blog Banner" style="width: 100%; display: block;"/>
     <div style="padding: 16px;">
       <h3 style="margin: 0 0 10px;">Data Quality Components for Geospatial Analysis</h3>
       <p style="color: #555; margin: 0 0 12px;">The blog “Data Quality Components for Geospatial Analysis” emphasizes the importance of assessing geospatial data quality, which is intangible and defined by properties like completeness, accuracy, precision, and consistency. It highlights the growing concerns over data quality due to increased private sector data production, reliance on secondary sources, and the use of GIS for decision-making, where poor-quality data can lead to serious consequences. The blog also discusses key components of geospatial data quality — space, time, and theme — and stresses the need for users to evaluate fitness-for-use and producers to document data limitations transparently.</p>
