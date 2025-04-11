@@ -11,6 +11,7 @@ tags:
   - data quality
 ---
 
+
 <!-- Style:1 -->
 <div style="display: flex; justify-content: flex-start; margin: 2rem auto; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <a href="https://medium.com/@omkarjadhav296/data-quality-components-for-geospatial-analysis-3760666622a8" target="_blank" style="text-decoration: none; color: inherit;">
