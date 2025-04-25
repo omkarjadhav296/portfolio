@@ -45,7 +45,6 @@ Skills
 ======
 * __Programming Languages:__ R, Python, JavaScript, SQL
 * __Libraries & Framework:__ scikit-learn, TensorFlow, PyTorch/ keras, OpenCV, ArcPy, GeoPandas, GDAL, rasterio, xarray, folium, shapely, fiona, numpy, pandas, sciPy, matplotlib
-  * Sub-skill 2.1
 * __GIS Tools/ Softwares:__ ESRI Products, ArcGIS Pro, ArcGIS Enterprise, ArcMap, ArcGIS Online, Google Earth Engine, QGIS, ERDAS imagine, ENVI 
 * __Databases:__ PostgreSQL, PostGIS, MongoDB 
 * __Dev. Tools:__ Visual Studio Code, Git, Jupyter Notebook, Docker, GitLab CI/CD 
