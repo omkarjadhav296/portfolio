@@ -25,7 +25,6 @@ Professional Experience:
 
 ### Senior Research Fellow (Remote Sensing & GIS) 
 *World Bank aided National Hydrology Project / Mahatma Phule Agriculture University (Pune, India)*  
-
 **_Dec, 2023 – Jul, 2025_**
  
   - Developed and refined GIS-based automation and mapping tools to increase workflow efficiency and reduce manual spatial data processing for sustainability and irrigation projects
@@ -40,7 +39,6 @@ Professional Experience:
 
 ### GIS & Monitoring, Evaluation, Learning Consultant (Freelance) 
 *Samarth Charitable Trust (Ahmedabad, India) | Commonland Foundation (Amsterdam, Netherlands)*  
-
 **_Jun, 2023 – Nov, 2023_**
 
   - Conducted GIS analysis and environmental impact evaluations for NGOs, contributing key data to tender proposals and reports
@@ -48,14 +46,12 @@ Professional Experience:
 
 Education:
 ===
-### __M.Sc in Earth Observation (Specialization: Geoinformatics),__
+### __M.Sc in Earth Observation (Specialization: Geoinformatics)__
 [Faculty of ITC, University of Twente](https://www.itc.nl/), Enschede, Netherlands 
-
 _Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets,<br>Machine Learning Approach_
 
-### __B.Tech. in Agricultural Engineering,__
+### __B.Tech. in Agricultural Engineering__
 [DBSKKV, College of Agricultural Engineering and Technology](https://www.dbskkv.org/faculty/engineering), Dapoli (Maharashtra,India)
-
 _Research on: Developing an ICT Application for Runoff Estimation Using C++_
 
 Technical Skills:
