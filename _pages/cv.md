@@ -12,23 +12,16 @@ redirect_from:
 <div class="cv-download-links" style="text-align: right;">
   <a href="{{ base_path }}/files/Resume_OmkarJadhav_DataScientist.pdf" class="btn btn--primary">Download</a>
 </div>
+GeoData Scientist with 2 years’ experience in statistical modeling, machine learning, and
+data analysis, specializing in the geospatial domain. Skilled in Python and SQL to deliver
+actionable insights, develop predictive models, and enable scalable solutions on cloud
+platforms. Strong track record in data visualization, algorithm development, and effective
+collaboration across teams to enhance operational efficiency and support data-driven
+decisions
+
 
 Professional Experience:
 ===
-
-<!-- * December 2023- July 2025: __Senior Researcher-RS & GIS__
-  * World Bank aided NHP Project, Ministry of Jalshakti (Government of India)
-  * Project: Gradual Development of Irrigation Management System for Continuous <br>Assessment of Performance/ Benchmarking of Pench Irrigation Project, Nagpur<br> -->
-
-<!-- * July 2024: __Course Co-ordinator__ (Geoinformatics-short course)
-  * Mahatma Phule Agricultural University, Rahuri (Maharashtra,India)
-  * Coordinating a comprehensive training program focused on Remote Sensing <br>and GIS with Geoinformatics as a specialization. Mentoring students from <br>agriculture 
-background about choosing GIS as future -->
-
-<!-- * Mar 2023-September 2023: __GIS & MEL Expert__ (Freelancer)
-  * Commonland Foundation, Amsterdam (Netherlands) association with<br>Samerth Charitable Trust, Ahmedabad (India) -->
-
-<!-- Code:2 -->
 
 ### Senior Research Fellow (Remote Sensing & GIS) 
 *World Bank aided National Hydrology Project / Mahatma Phule Agriculture University (Pune, India)*  
