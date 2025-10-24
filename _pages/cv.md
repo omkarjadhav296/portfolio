@@ -91,7 +91,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
 
- 
+
 Certifications
 ===
 
@@ -110,3 +110,4 @@ Conference
 | September 2025     | Geospatial Innovation Frontier Technologies Sustainability Summit  | ISPRS |
 | December 2023    | International Conclave on Futuristic Farming (ICFF)            | Pune (Maharashtra, India)                                     |
 | June 2022    | International Conference on Insight in Mechanical and Civil Engineering (ICIMCE)             | DYPIET, Pune (Maharashtra,India)  
+
