@@ -13,19 +13,8 @@ redirect_from:
   <a href="{{ base_path }}/files/Resume_OmkarJadhav_DataScientist.pdf" class="btn btn--primary">Download</a>
 </div>
 
-## Education
-
-### __M.Sc in Earth Observation (Specialization: Geoinformatics),__
-[Faculty of ITC, University of Twente](https://www.itc.nl/), Enschede, Netherlands 
-
-_Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets,<br>Machine Learning Approach_
-
-### __B.Tech. in Agricultural Engineering,__
-[DBSKKV, College of Agricultural Engineering and Technology](https://www.dbskkv.org/faculty/engineering), Dapoli (Maharashtra,India)
-
-_Research on: Developing an ICT Application for Runoff Estimation Using C++_
-
-## Professional Experience:
+Professional Experience:
+===
 
 <!-- * December 2023- July 2025: __Senior Researcher-RS & GIS__
   * World Bank aided NHP Project, Ministry of Jalshakti (Government of India)
@@ -64,8 +53,20 @@ background about choosing GIS as future -->
   - Conducted GIS analysis and environmental impact evaluations for NGOs, contributing key data to tender proposals and reports
   - Collaborated with international conservation partners to ensure spatial and tabular data quality and utility
 
-  
-## Skills
+Education:
+===
+### __M.Sc in Earth Observation (Specialization: Geoinformatics),__
+[Faculty of ITC, University of Twente](https://www.itc.nl/), Enschede, Netherlands 
+
+_Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets,<br>Machine Learning Approach_
+
+### __B.Tech. in Agricultural Engineering,__
+[DBSKKV, College of Agricultural Engineering and Technology](https://www.dbskkv.org/faculty/engineering), Dapoli (Maharashtra,India)
+
+_Research on: Developing an ICT Application for Runoff Estimation Using C++_
+
+Technical Skills:
+===
 
 | Category                   | Tools / Technologies                                                                                                                                         |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -89,8 +90,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-## Certifications
-  
+Certifications
+===
+
 | Sr.No         | Certification                                   | Institution / Provider                                                 |
 |--------------|-------------------------------------------------|-----------------------------------------------------------------------|
 | 1     | Google Data Analytics Professional Certificate  | Coursera, Sponsored by Commonwealth of Learning, British Columbia, Canada |
@@ -98,7 +100,8 @@ Talks
 | 3    | Land in Focus: Agriculture and Food             | EO College, European Space Agency                                     |
 
 
-## Conference
+Conference
+===
 
 | Date         | Conferenece                                | Institution / Organizer's                                                 |
 |--------------|-------------------------------------------------|-----------------------------------------------------------------------|
