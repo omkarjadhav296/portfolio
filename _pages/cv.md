@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <div class="cv-download-links" style="text-align: right;">
   <a href="{{ base_path }}/files/Resume_OmkarJadhav_DataScientist.pdf" class="btn btn--primary">Download</a>
@@ -65,7 +65,10 @@ _Research on: Sugarcane Crop Monitoring Using Multi-Parametric SAR Datasets,<br>
 
 _Research on: Developing an ICT Application for Runoff Estimation Using C++_
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0fd35ef839470e80f736c01f128895daead9dee8
 Technical Skills:
 ===
 
@@ -90,8 +93,12 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
+<<<<<<< HEAD
 
 
+=======
+  
+>>>>>>> 0fd35ef839470e80f736c01f128895daead9dee8
 Certifications
 ===
 
