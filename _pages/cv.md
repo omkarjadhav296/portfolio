@@ -6,14 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<div style="font-family: 'Calibri', sans-serif;">
+
 {% include base_path %}
 
 <div class="cv-download-links" style="text-align: right;">
   <a href="{{ base_path }}/files/Resume_OmkarJadhav_DataScientist.pdf" class="btn btn--primary">Download</a>
 </div>
-
-
 
 Professional Experience:
 ===
@@ -110,5 +108,3 @@ Conference
 | September 2025     | Geospatial Innovation Frontier Technologies Sustainability Summit  | ISPRS |
 | December 2023    | International Conclave on Futuristic Farming (ICFF)            | Pune (Maharashtra, India)                                     |
 | June 2022    | International Conference on Insight in Mechanical and Civil Engineering (ICIMCE)             | DYPIET, Pune (Maharashtra,India)  
-
-</div>
