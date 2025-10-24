@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Dashboard for Real-Time Covid Reporting:"
 collection: talks
 type: "Academic Research"
@@ -12,4 +12,4 @@ location: "Enschede, Netherlands"
 
  Developing a comprehensive COVID-19 dashboard using PowerBI, enabling real-time reporting and analysis
 
-___Keywords:__  API, Pivot table, Microsoft excel, PowerBI_
+___Keywords:__  API, Pivot table, Microsoft excel, PowerBI_ -->

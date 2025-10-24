@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Geospatial Analysis of Renewable sources in India:"
 collection: talks
 type: "Academic Research"
@@ -12,4 +12,4 @@ location: "Enschede, Netherlands"
 
 Visualizing different ways of energy production in India and comparing potential of renewable and non-renewable sources
 
-___Keywords:__  Python, Numpy, Pandas and Geo-pandas_
+___Keywords:__  Python, Numpy, Pandas and Geo-pandas_ -->

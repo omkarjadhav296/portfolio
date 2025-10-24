@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Crop Disease Identification Using YOLOv5:"
 collection: talks
 type: "Academic Research"
@@ -12,4 +12,4 @@ location: "Enschede, Netherlands"
 
 Implementing YOLOv5 architecture to identify and classify disease in crop images 
 
-___Keywords:__  Annotation, Deep learning, YOLOv5, Disease detection_
+___Keywords:__  Annotation, Deep learning, YOLOv5, Disease detection_ -->

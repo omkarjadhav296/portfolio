@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Real-time Geospatial Data Pipeline:"
 collection: talks
 type: "Academic Research"
@@ -13,4 +13,4 @@ location: "Enschede, Netherlands"
 Creating a real-time data pipeline using AWS Kinesis to ingest, process, 
 and visualize geospatial data streams
 
-__Skills:__  _AWS kinesis, Lambda, S3, real-time data processing, data visualization_
+__Skills:__  _AWS kinesis, Lambda, S3, real-time data processing, data visualization_ -->

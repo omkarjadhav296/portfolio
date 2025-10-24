@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Assessment of changes in the Sundarbans Mangroves using Earth Observation data with the help of GEE:"
 collection: talks
 type: "Academic Research"
@@ -12,4 +12,4 @@ location: "Enschede, Netherlands"
 
 Analyzing change in water level and forest cover of Sundarbans and observing effect of increase in mean sea level over 30 years of time span using machine learning models like random-forest and XG- Boost  
 
-___Keywords:__  Mangroves, XG_Boost, Machine Leanring_
+___Keywords:__  Mangroves, XG_Boost, Machine Leanring_ -->

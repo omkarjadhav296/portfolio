@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Detect and Classify Brick kilns:"
 collection: talks
 type: "Academic Research"
@@ -12,4 +12,4 @@ location: "Enschede, Netherlands"
 
 Implementing the YOLOv5 (You Only Look Once) algorithm to detect and classify the brick kilns
 
-___Keywords:__  Deep learning, CNN, YOLOv5_
+___Keywords:__  Deep learning, CNN, YOLOv5_ -->
