@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <div class="cv-download-links" style="text-align: right;">
   <a href="{{ base_path }}/files/Resume_OmkarJadhav_DataScientist.pdf" class="btn btn--primary">Download</a>
